@@ -644,13 +644,13 @@ a {
 }
 .galary-top {
     position: relative;
-    overflow: hidden;
+    /* overflow: hidden; */
  }
 .galary-text {
     position: absolute;
     /* width: 322px;
-    height: 158px; */
-    /* left: 224px;
+    height: 158px;
+   left: 224px;
     top: 330px; */
 
     font-family: Roboto;
@@ -663,7 +663,7 @@ a {
 
     color: white;
     top: 0px;
-    left: 0px;
+    right: 0px;
     height: 100%;
     width: 100%;
     /* padding-top: 30px; */
